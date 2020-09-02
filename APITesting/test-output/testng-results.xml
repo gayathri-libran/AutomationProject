@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3910" started-at="2020-09-02T11:33:37 IST" finished-at="2020-09-02T11:33:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3910" started-at="2020-09-02T11:33:37 IST" finished-at="2020-09-02T11:33:41 IST">
+      <class name="Automation.APITesting.SpaceXAPI">
+        <test-method status="PASS" signature="Test_01_SuccessulNavigation()[pri:0, instance:Automation.APITesting.SpaceXAPI@711f39f9]" name="Test_01_SuccessulNavigation" duration-ms="2161" started-at="2020-09-02T11:33:37 IST" finished-at="2020-09-02T11:33:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01_SuccessulNavigation -->
+        <test-method status="PASS" signature="Test_02_Status_Success()[pri:0, instance:Automation.APITesting.SpaceXAPI@711f39f9]" name="Test_02_Status_Success" duration-ms="856" started-at="2020-09-02T11:33:40 IST" finished-at="2020-09-02T11:33:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_02_Status_Success -->
+        <test-method status="PASS" signature="Test_03_FlightDetails()[pri:0, instance:Automation.APITesting.SpaceXAPI@711f39f9]" name="Test_03_FlightDetails" duration-ms="858" started-at="2020-09-02T11:33:40 IST" finished-at="2020-09-02T11:33:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_03_FlightDetails -->
+      </class> <!-- Automation.APITesting.SpaceXAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
